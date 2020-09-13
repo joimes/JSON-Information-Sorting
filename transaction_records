@@ -1,0 +1,450 @@
+transactions = [{
+    "transaction_id": 1,
+    "customer_id": "75-8622289",
+    "products": [{
+        "id": "NMS-252",
+        "name": "Lotlux",
+        "dept": "Jewelery",
+        "price": 81.24,
+        "currency": "IDR",
+        "tags": [{
+            "tag": "throughput"
+        }, {
+            "tag": "Optional"
+        }, {
+            "tag": "pricing structure"
+        }, {
+            "tag": "installation"
+        }, {
+            "tag": "software"
+        }]
+    }]
+},
+    {
+    "transaction_id": 2,
+    "customer_id": "85-8725399",
+    "products": [{
+        "id": "GCM-116",
+        "name": "Bitwolf",
+        "dept": None,
+        "price": 32.78,
+        "currency": "XAF",
+        "tags": [{
+            "tag": "real-time"
+        }, {
+            "tag": "Visionary"
+        }, {
+            "tag": "Multi-tiered"
+        }, {
+            "tag": "hierarchy"
+        }, {
+            "tag": "Monitored"
+        }, {
+            "tag": "instruction set"
+        }, {
+            "tag": "model"
+        }, {
+            "tag": "pricing structure"
+        }]
+    }]
+},
+    {
+    "transaction_id": 3,
+    "customer_id": "81-7742192",
+    "products": [{
+        "id": "NRY-552",
+        "name": "Bigtax",
+        "dept": None,
+        "price": 37.68,
+        "currency": "CNY",
+        "tags": [{
+            "tag": "Enhanced"
+        }, {
+            "tag": "real-time"
+        }, {
+            "tag": "structure"
+        }, {
+            "tag": "knowledge user"
+        }, {
+            "tag": "multi-state"
+        }, {
+            "tag": "real-time"
+        }, {
+            "tag": "methodology"
+        }, {
+            "tag": "Fully-configurable"
+        }, {
+            "tag": "Balanced"
+        }, {
+            "tag": "Re-contextualized"
+        }]
+    }, {
+        "id": "PAF-672",
+        "name": "Tampflex",
+        "dept": None,
+        "price": 25.07,
+        "currency": "PHP",
+        "tags": [{
+            "tag": "incremental"
+        }, {
+            "tag": "artificial intelligence"
+        }, {
+            "tag": "Advanced"
+        }, {
+            "tag": "dynamic"
+        }, {
+            "tag": "dynamic"
+        }, {
+            "tag": "Proactive"
+        }, {
+            "tag": "open system"
+        }, {
+            "tag": "object-oriented"
+        }, {
+            "tag": "Cloned"
+        }]
+    }, {
+        "id": "EWV-616",
+        "name": "Bamity",
+        "dept": "Home",
+        "price": 75.85,
+        "currency": "CNY",
+        "tags": [{
+            "tag": "capability"
+        }, {
+            "tag": "Self-enabling"
+        }, {
+            "tag": "Pre-emptive"
+        }, {
+            "tag": "application"
+        }, {
+            "tag": "Graphical User Interface"
+        }, {
+            "tag": "4th generation"
+        }]
+    }]
+},
+    {
+    "transaction_id": 4,
+    "customer_id": "06-4607486",
+    "products": [{
+        "id": "RNX-242",
+        "name": "Subin",
+        "dept": "Clothing",
+        "price": 46.01,
+        "currency": "BRL",
+        "tags": [{
+            "tag": "Organized"
+        }, {
+            "tag": "didactic"
+        }, {
+            "tag": "frame"
+        }, {
+            "tag": "Intuitive"
+        }, {
+            "tag": "info-mediaries"
+        }, {
+            "tag": "Multi-tiered"
+        }, {
+            "tag": "intermediate"
+        }, {
+            "tag": "clear-thinking"
+        }]
+    }, {
+        "id": "HYZ-775",
+        "name": "Pannier",
+        "dept": "Outdoors",
+        "price": 30.81,
+        "currency": "JPY",
+        "tags": [{
+            "tag": "Advanced"
+        }, {
+            "tag": "Mandatory"
+        }, {
+            "tag": "Switchable"
+        }, {
+            "tag": "Multi-lateral"
+        }, {
+            "tag": "content-based"
+        }, {
+            "tag": "complexity"
+        }, {
+            "tag": "Innovative"
+        }, {
+            "tag": "Realigned"
+        }, {
+            "tag": "Multi-lateral"
+        }, {
+            "tag": "portal"
+        }]
+    }]
+},
+    {
+    "transaction_id": 5,
+    "customer_id": "19-7881925",
+    "products": [{
+        "id": "LEP-903",
+        "name": "Tin",
+        "dept": "Beauty",
+        "price": 39.63,
+        "currency": "MMK",
+        "tags": [{
+            "tag": "archive"
+        }, {
+            "tag": "Cloned"
+        }, {
+            "tag": "Decentralized"
+        }, {
+            "tag": "optimizing"
+        }, {
+            "tag": "capacity"
+        }, {
+            "tag": "focus group"
+        }]
+    }]
+},
+    {
+    "transaction_id": 6,
+    "customer_id": "63-0216413",
+    "products": [{
+        "id": "SMH-747",
+        "name": "Subin",
+        "dept": "Kids",
+        "price": 52.76,
+        "currency": "EUR",
+        "tags": [{
+            "tag": "pricing structure"
+        }, {
+            "tag": "Re-contextualized"
+        }, {
+            "tag": "content-based"
+        }, {
+            "tag": "Managed"
+        }, {
+            "tag": "mission-critical"
+        }, {
+            "tag": "approach"
+        }]
+    }, {
+        "id": "RDP-714",
+        "name": "Mat Lam Tam",
+        "dept": "Clothing",
+        "price": 49.07,
+        "currency": "RUB",
+        "tags": [{
+            "tag": "Balanced"
+        }, {
+            "tag": "Stand-alone"
+        }, {
+            "tag": "pricing structure"
+        }, {
+            "tag": "Self-enabling"
+        }, {
+            "tag": "optimizing"
+        }, {
+            "tag": "Versatile"
+        }, {
+            "tag": "human-resource"
+        }, {
+            "tag": "4th generation"
+        }, {
+            "tag": "Persistent"
+        }]
+    }, {
+        "id": "LJT-136",
+        "name": "Otcom",
+        "dept": None,
+        "price": 93.64,
+        "currency": "RUB",
+        "tags": [{
+            "tag": "zero administration"
+        }, {
+            "tag": "approach"
+        }, {
+            "tag": "Synchronised"
+        }, {
+            "tag": "client-driven"
+        }, {
+            "tag": "budgetary management"
+        }, {
+            "tag": "Synergistic"
+        }, {
+            "tag": "secondary"
+        }, {
+            "tag": "frame"
+        }, {
+            "tag": "initiative"
+        }, {
+            "tag": "standardization"
+        }]
+    }]
+},
+    {
+    "transaction_id": 7,
+    "customer_id": "87-9883667",
+    "products": [{
+        "id": "VTJ-938",
+        "name": "Flowdesk",
+        "dept": None,
+        "price": 62.48,
+        "currency": "USD",
+        "tags": [{
+            "tag": "Ergonomic"
+        }, {
+            "tag": "radical"
+        }, {
+            "tag": "Future-proofed"
+        }, {
+            "tag": "actuating"
+        }, {
+            "tag": "Pre-emptive"
+        }, {
+            "tag": "clear-thinking"
+        }, {
+            "tag": "Persevering"
+        }, {
+            "tag": "leading edge"
+        }, {
+            "tag": "synergy"
+        }, {
+            "tag": "modular"
+        }]
+    }]
+},
+    {
+    "transaction_id": 8,
+    "customer_id": "94-2240424",
+    "products": [{
+        "id": "RUU-627",
+        "name": "Alphazap",
+        "dept": "Clothing",
+        "price": 51.13,
+        "currency": "PLN",
+        "tags": [{
+            "tag": "secured line"
+        }, {
+            "tag": "Realigned"
+        }, {
+            "tag": "projection"
+        }, {
+            "tag": "Decentralized"
+        }, {
+            "tag": "protocol"
+        }, {
+            "tag": "Synergized"
+        }]
+    }]
+},
+    {
+    "transaction_id": 9,
+    "customer_id": "93-0205654",
+    "products": [{
+        "id": "CKO-480",
+        "name": "It",
+        "dept": "Beauty",
+        "price": 97.13,
+        "currency": "XAF",
+        "tags": [{
+            "tag": "standardization"
+        }, {
+            "tag": "multi-state"
+        }, {
+            "tag": "capability"
+        }, {
+            "tag": "global"
+        }, {
+            "tag": "explicit"
+        }, {
+            "tag": "tertiary"
+        }, {
+            "tag": "functionalities"
+        }, {
+            "tag": "bi-directional"
+        }, {
+            "tag": "Ameliorated"
+        }]
+    }]
+},
+    {
+    "transaction_id": 10,
+    "customer_id": "47-2759755",
+    "products": [{
+        "id": "SMA-941",
+        "name": "Stronghold",
+        "dept": None,
+        "price": 76.15,
+        "currency": "EUR",
+        "tags": [{
+            "tag": "leverage"
+        }, {
+            "tag": "didactic"
+        }, {
+            "tag": "parallelism"
+        }, {
+            "tag": "Exclusive"
+        }, {
+            "tag": "model"
+        }, {
+            "tag": "extranet"
+        }, {
+            "tag": "infrastructure"
+        }, {
+            "tag": "concept"
+        }, {
+            "tag": "Progressive"
+        }, {
+            "tag": "info-mediaries"
+        }]
+    }, {
+        "id": "LLB-151",
+        "name": "Viva",
+        "dept": "Toys",
+        "price": 87.2,
+        "currency": "EUR",
+        "tags": [{
+            "tag": "Open-architected"
+        }, {
+            "tag": "adapter"
+        }, {
+            "tag": "leading edge"
+        }, {
+            "tag": "Ameliorated"
+        }, {
+            "tag": "Mandatory"
+        }, {
+            "tag": "Sharable"
+        }]
+    }, {
+        "id": "ADT-953",
+        "name": "Redhold",
+        "dept": "Music",
+        "price": 86.76,
+        "currency": "CNY",
+        "tags": [{
+            "tag": "optimal"
+        }, {
+            "tag": "tertiary"
+        }, {
+            "tag": "initiative"
+        }, {
+            "tag": "Ameliorated"
+        }, {
+            "tag": "Face to face"
+        }]
+    }]
+}
+]
+myfile = open('Customers_Products.txt', 'w')
+
+
+
+
+for transaction in transactions:
+    customerid = transaction['customer_id']
+    myfile.write('Customer ' + customerid + '\n')
+    #print('Customer ' + customerid)
+    for product in transaction['products']:
+        myfile.write(' bought ' + product['name'] + '\n')
+        #print(' bought ' + product['name'])
+
+myfile.close()
